@@ -1,1 +1,1 @@
-# pythonPractice
+# python-django-Practice
